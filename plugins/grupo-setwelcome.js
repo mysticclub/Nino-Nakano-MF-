@@ -9,7 +9,7 @@ let handler = async (m, { conn, text, isRowner }) => {
 handler.help = ['setwelcome'];
 handler.tags = ['tools'];
 handler.command = ['setwelcome'];
-handler.owner = false;
+handler.mods = true;
 handler.admin = true;
 
 export default handler;
