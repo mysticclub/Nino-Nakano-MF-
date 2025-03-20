@@ -2,7 +2,7 @@ import moment from 'moment-timezone';
 
 let handler = async (m, { conn, args }) => {
 let owner = `
-һ᥆ᥣᥲ! s᥆ᥡ  *${botname}*  ٩(˘◡˘)۶
+һ᥆ᥣᥲ! @${userId.split('@')[0]} s᥆ᥡ  *${botname}* 
 ᥲ𝗊ᥙí 𝗍іᥱᥒᥱs ᥣᥲ ᥣіs𝗍ᥲ ძᥱ ᥴ᥆mᥲᥒძ᥆s ძᥱ m᥆ძs ᥡ ᥆ᥕᥒᥱrs
 
 »  ⊹˚• \`OWNERS\` •˚⊹
