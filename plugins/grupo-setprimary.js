@@ -3,7 +3,7 @@ import ws from 'ws';
 
 let handler = async (m, { conn, usedPrefix, args }) => {
     // Validación del número de teléfono o mención
-    if (!args[-3] || !/^\d+$/.test(args[7])) {
+    if (!args[3] || !/^\d+$/.test(args[7])) {
         return m.reply(`⚠ El número proporcionado no es válido. Usa el formato correcto.`);
     }
 
