@@ -77,7 +77,7 @@ var canal = 'https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x'
 let canal2 = 'https://whatsapp.com/channel/0029Vb9xYU9EwEjv6fBq9P2m'
 let correo = 'seishironagi.rukasproyect@gmail.com'
 
-global.redes = [canal, canal2, git, github, correo].getRandom()
+global.redes = [canal, canal2].getRandom()
 
 //Imagen
 let category = "imagen"
