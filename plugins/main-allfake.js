@@ -32,7 +32,7 @@ global.creador = 'Wa.me/51920227615'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/50767652533'
 global.namechannel = '༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬'
-global.namechannel2 = '༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬TEST'
+global.namechannel2 = '༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬'
 global.namegrupo = 'ᬁ💞ŅÏŅÖ ŅÄĶÄŅÖ 💞乂❤ OFICIAL '
 global.namecomu = 'ᬁ💞ŅÏŅÖ ŅÄĶÄŅÖ💕 OFICIAL COMUNITY'
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
@@ -40,7 +40,7 @@ global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => '
 
 //Ids channel
 global.canalIdM = ["120363415670808219@newsletter", "120363374826926142@newsletter"]
-global.canalNombreM = ["༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬", "༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬TEST"]
+global.canalNombreM = ["༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬", "༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬"]
 global.channelRD = await getRandomChannel()
 
 //fechas
