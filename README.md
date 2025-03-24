@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd Nino-Nakano-MF-
    ```
 
 ❒ Inicia el bot nuevamente:
