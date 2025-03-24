@@ -1,4 +1,4 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
+<h1 align="center">✦ Niño Nakano ✦</h1>
 
  <img src= "https://files.catbox.moe/om9jai.jpg">
     </p>
