@@ -186,22 +186,4 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 * Panel: [`Panel`](https://bronxyshost.com)
 * Canal de WhatsApp: [`Canal Bronxy`](https://whatsapp.com/channel/0029Va9l48kHbFV6SQFKz93B)
 * Grupo Oficial: [`Aquí`](https://chat.whatsapp.com/GVQsAe6CAjoJLuotkpnAqq)
-* Grupo Soporte: [`Soporte`](https://wa.me/message/OMZQOH4YZ765K1) 
-
-</details>
-
----
-
-### **`🌟 Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
-
-### **`👑 Propietario`**
-<a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
-
-### **`🪐 Créditos`**
-<a href="https://github.com/willzekoficial" style="display:inline-block; text-decoration: none;">
-    <img src="
+* Grupo Soporte: [`Soporte`](https://wa.me/message/OMZQOH4YZ765K1)
