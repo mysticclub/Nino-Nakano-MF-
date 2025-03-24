@@ -1,6 +1,6 @@
 <h1 align="center">✦ Niño Nakano ✦</h1>
 
- <img src= "https://files.catbox.moe/om9jai.jpg">
+ <img src= "https://qu.ax/BKfGO.jpg">
     </p>
 
 ### **`❕️ Información importante`**
