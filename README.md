@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/mysticclub/Nino-Nakano-MF-
 ```
 
 ```bash
@@ -108,16 +108,16 @@ npm start
 <details>
  <summary><b> 🍭 Grupos Oficiales </b></summary>
 
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD)
+ * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)
+* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/DBkDuboKpLT5ffA7kRZckY)
+* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/E306o0iqonT4B2GMgoP2vr)
 </details>
 
 <details>
 <summary><b> 💭 Contáctos</b></summary>
 
-* WhatsApp: [`Aquí`](https:/Wa.me/584120346669)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+* WhatsApp: [`Aquí`](https:/Wa.me/51920227615)
+* Correo: [`Aquí`](seishironagi.rukasproyect@gmail.com)
 
 </details>
 
