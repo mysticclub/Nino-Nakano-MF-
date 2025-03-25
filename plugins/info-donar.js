@@ -20,7 +20,7 @@ conn.sendFile(m.chat, img, 'img.jpg', don, m, null, rcanal)
 //conn.sendPayment(m.chat, '2000', 'USD', don, m.sender, m)
 }
 
-handler.help = ['donate']
+handler.help = ['help']
 handler.tags = ['main']
 handler.command = ['apoyar', 'donate', 'donar'] 
 handler.estrellas = 3;
