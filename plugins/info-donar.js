@@ -41,7 +41,7 @@ mentionedJid:[m.sender],
 // await conn.sendButton(m.chat, `a`, `https://www.paypal.me/GZuasnabarPomatana`, pp, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]], m) //[['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', `/menu`]]
 /*await conn.sendHydrated(m.chat, str, wm, media,
 }
-handler.help = ['donar']
+handler.help = ['info']
 handler.tags = ['main']
 handler.command = /^dona(te|si)|donar|apoyar|paypal|donating|creditos$/i
 handler.register = true
