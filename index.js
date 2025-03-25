@@ -43,13 +43,13 @@ let { say } = cfonts
 
 console.log(chalk.bold.redBright(`\n✰ Iniciando Nino-Nakano Bot ✰\n`))
 
-say('NINO NAKANO NT', {
+say('NINO NAKANO', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
 })
 
-say(`Developed By • SEƗSĦƗRO⚔ṈȺGƗ.il`, {
+say(`Developed By • Seishiro Nagi`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
